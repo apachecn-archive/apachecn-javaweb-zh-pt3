@@ -1,4 +1,4 @@
-# 第一部分:RESTful Web 服务
+# 第一部分：RESTful Web 服务
 
 在本节中，您将开发和测试由 HATEOAS 和 ETAGs 支持的生产就绪和不断发展的基于 REST 的 API。API 规范将使用 OpenAPI 规范(Swagger)编写。您将学习使用 Spring WebFlux 进行反应式 API 开发的基础知识。在本节结束时，您将熟悉 REST 的基础知识、最佳实践以及如何编写不断发展的 API。完成本节之后，您将能够开发同步和反应式异步非阻塞 API。
 
