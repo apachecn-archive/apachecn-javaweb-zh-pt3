@@ -1,3 +1,4 @@
++   [Spring5 项目手册](README.md)
 +   [零、前言](0.md)
 +   [一、创建一个列出世界各国 GDP 的应用](1.md)
 +   [二、构建反应式 Web 应用](2.md)
@@ -6,4 +7,3 @@
 +   [五、使用 JHipster 查看国家及其 GDP 的应用](5.md)
 +   [六、创建网上书店](6.md)
 +   [七、使用 Spring 和 Kotlin 的任务管理系统](7.md)
-+   [Spring5 项目手册](README.md)

@@ -1,3 +1,4 @@
++   [SprintBatch 精要](README.md)
 +   [零、前言](00.md)
 +   [一、SpringBatch 基础知识](01.md)
 +   [二、SpringBatch 作业入门](02.md)
@@ -9,4 +10,3 @@
 +   [八、使用 SpringBatch 进行缩放](08.md)
 +   [九、测试 SpringBatch](09.md)
 +   [十、附录 A](10.md)
-+   [SprintBatch 精要](README.md)
